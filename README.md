@@ -6,5 +6,6 @@ Projects developed with the CRX team
 
 BASICstar Galactica - Cyrptoboy to figure out how to play the 1978 TV theme using MEGA65 BASIC.
 - MEGA65 Emulator: https://65site.de/emulator.php
+  - Follow these instructions and use MEGA65.ROM to get full MEGA65 operation: https://github.com/lgblgblgb/xemu/wiki/MEGA65-ROM-%22how-to-get-it%22-tutorial-for-Xemu#finally-how-to-update-the-rom-on-your-emulated-sd-card-in-xemu
 - MEGA65 BASIC Manual for the music PLAY command: https://builder.mega65.org/job/mega65-user-guide/job/master/lastSuccessfulBuild/artifact/mega65-basic65-reference.pdf
 - Sample Music (Maybe starting at 30 sec mark): https://www.youtube.com/watch?v=8hrd767Xzfk
